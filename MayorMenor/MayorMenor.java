@@ -1,3 +1,5 @@
+//03.- en este programa aplico los ifs y una pequeña funcion matematica, creo que pude haberlo aplicado de mejor manera
+
 import java.util.Scanner;
 
 public class MayorMenor{

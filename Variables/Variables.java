@@ -1,3 +1,4 @@
+//02.- En este programa aprendo el uso de variables y el scanner para leer datos, ademas de unos plugins mas para sublime text
 import java.util.Scanner;
 
 public class Variables{
